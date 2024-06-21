@@ -1,0 +1,19 @@
+continent,country,visibility,population_size
+asia,hong kong,0,7451000
+asia,china,1,1402112000
+asia,japan,0,125960000
+asia,south korea,1,51780000
+asia,taiwan,1,23580000
+america,canada,1,38008005
+america,usa,1,331893745
+america,south america,0,430759766
+europe,austria,1,8917205
+europe,belgium,0,11589623
+europe,france,1,67413000
+europe,germany,1,83155031
+europe,greece,0,10423054
+europe,italy,1,59554023
+europe,portugal,0,10305564
+europe,russia,0,146171015
+europe,spain,1,47351567
+europe,switzerland,1,8636896
