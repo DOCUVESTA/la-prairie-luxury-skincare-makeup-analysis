@@ -8,7 +8,7 @@
 
 
 ## Overview
-Ever wondered how a brand's product lineup varies from one region to another? In this repository, I perform an analysis on three of La Prairie’s english websites. To be more specific, websites for regions that have the option to display information in English. The regions are The United States (us), Great Britain (gb) and Hong Kong(hk). This analysis aims to illustrate how La Prairie obtained its prestigious status as one of the leading luxury skincare brands globally, explore different insights from reviewing the brand’s various regional websites. Finally, identify potential business opportunities for La Prairie from the perspective of a dedicated skincare enthusiast.
+Ever wondered how a brand's product lineup varies from one region to another? In this repository, I perform an analysis on three of La Prairie’s english websites. To be more specific, websites for regions that have the option to display information in English. The regions are The United States (us), Great Britain (gb) and Hong Kong (hk). This analysis aims to illustrate how La Prairie obtained its prestigious status as one of the leading luxury skincare brands globally, explore different insights from reviewing the brand’s various regional websites and finally, identify potential business opportunities for La Prairie from the perspective of a dedicated skincare enthusiast.
 
 
 ## Repository Contents
