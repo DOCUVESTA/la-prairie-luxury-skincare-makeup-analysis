@@ -59,7 +59,7 @@ A document with a brief history on the brand, along with insights and opportunit
 <summary>Preview</summary>
 <br>
 	
-![Report](https://github.com/DOCUVESTA/template/blob/1c47fd5141f9f8422d0f3079146f838e087f513e/assets/pictures/Screenshot%202024-06-20%20at%209.15.46%20PM.png)	
+![Report](https://github.com/DOCUVESTA/template/blob/378eb14bf8f158ddc8187bce4876f8f21d6acc58/assets/pictures/Screenshot%202024-06-21%20at%202.26.18%20PM.png)	
 </details>
 
 <p>
