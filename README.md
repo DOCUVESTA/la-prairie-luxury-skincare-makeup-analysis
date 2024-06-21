@@ -41,11 +41,11 @@ Ever wondered how a brand's product lineup varies from one region to another? In
 ### Jupyter Notebook: la_prairie_skincare_data_transformation.ipynb
 - Jupyter notebook with annotations detailing each stage of preprocessing web scraped data
 - Data exploration process
-- Matplotlib, Seaborn and Plotly visualizations
+- WordCloud, Seaborn and Plotly visualizations
 
 <br>
 
-### Notion: La Prairie regional website analysis public web page
+### Notion: La Prairie Regional Website Analysis public web page
 A document with a brief history on the brand, along with insights and opportunities for La Prairie products and website development
 </details>
 <details closed>
