@@ -38,6 +38,12 @@ Ever wondered how a brand's product lineup varies from one region to another? In
 
 <br>
 
+### Python Program: lp.py
+- Web scraping program
+- Key libraries: httpx, selectolax, dataclasses and csv
+
+<br>
+
 ### Jupyter Notebook: la_prairie_skincare_data_transformation.ipynb
 - Jupyter notebook with annotations detailing each stage of preprocessing web scraped data
 - Data exploration process
