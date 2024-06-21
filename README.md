@@ -63,7 +63,7 @@ A document with a brief history on the brand, along with insights and opportunit
 </details>
 
 <p>
-  <a href="WEBSITE HERE"><img src="https://img.shields.io/badge/Access-webpage-blue?style=for-the-badge&color=%23EBCFB3"></a>
+  <a href="https://docuvesta.notion.site/La-Prairie-Regional-Website-Analysis-e04b3082f7d7467b8a3312d4cc96487a?pvs=4"><img src="https://img.shields.io/badge/Access-webpage-blue?style=for-the-badge&color=%23EBCFB3"></a>
 </p>
 
 <br>
