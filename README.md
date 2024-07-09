@@ -53,7 +53,7 @@ Ever wondered how a brand's product lineup varies from one region to another? In
 <br>
 
 ### Notion: La Prairie Regional Website Analysis public web page
-A document with a brief history on the brand, along with insights and opportunities for La Prairie products and website development
+A document with a brief history of the brand, along with insights and opportunities for La Prairie products and website development
 </details>
 <details closed>
 <summary>Preview</summary>
