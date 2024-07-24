@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	<img src="https://github.com/DOCUVESTA/template/blob/04d93fd9b664510976dabbe7383a65ef3c7b96a5/assets/pictures/Screenshot%202024-06-20%20at%208.51.36%20PM.png"/>
+	<img src="https://github.com/DOCUVESTA/la-prairie-luxury-skincare-makeup-analysis/blob/5160c2f1d8989ab95cfc8b674172dc26910a0602/assets/header_lp.png"/>
 </h3>
 
 
@@ -59,7 +59,7 @@ A document with a brief history of the brand, along with insights and opportunit
 <summary>Preview</summary>
 <br>
 	
-![Report](https://github.com/DOCUVESTA/template/blob/378eb14bf8f158ddc8187bce4876f8f21d6acc58/assets/pictures/Screenshot%202024-06-21%20at%202.26.18%20PM.png)	
+![Report](https://github.com/DOCUVESTA/la-prairie-luxury-skincare-makeup-analysis/blob/5160c2f1d8989ab95cfc8b674172dc26910a0602/assets/preview_report_lp.png)	
 </details>
 
 <p>
