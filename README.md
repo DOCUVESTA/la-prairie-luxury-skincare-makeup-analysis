@@ -39,7 +39,7 @@ Ever wondered how a brand's product lineup varies from one region to another? In
 
 <br>
 
-### Python Program: lp.py
+### Python File: lp_webscraper.py
 - Web scraping program
 - Key libraries: httpx, selectolax, dataclasses and csv
 
