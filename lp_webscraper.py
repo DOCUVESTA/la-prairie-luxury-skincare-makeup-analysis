@@ -38,7 +38,7 @@ def parse_products(html):
 
 # saving data in a csv file
 def csv_data(final_data):
-    with open("laprairie_data_0.csv", "a") as f:
+    with open("laprairie_data.csv", "a") as f:
         writer = csv.DictWriter(f, fieldnames=["product_line", "product_name", "benefits", "price"])
         writer.writerows(final_data)
 
