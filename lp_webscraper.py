@@ -31,7 +31,8 @@ def parse_products(html):
             product_line = product.css_first("div.category-name-link.product-tile__category-name").text().replace('\n','') if product.css_first("div.category-name-link.product-tile__category-name") else "LA PRAIRIE" ,    
             product_name = product.css_first("div.name-link.product-tile__name").text().replace('\n',''),
             benefits = product.css_first("ul.product-benefits-tags.js-product-benefits-tags").text().replace('\n',',').strip(','),
-            price = product.css_first("span.js-sales-price.js-calculate-total-price.js-product-price").text().replace('\n','') if product.css_first("span.js-sales-price.js-calculate-total-price.js-product-price") else ""        )
+            price = product.css_first("span.js-sales-price.js-calculate-total-price.js-product-price").text().replace('\n','') if product.css_first("span.js-sales-price.js-calculate-total-price.js-product-price") else ""        
+        )
         results.append(asdict(new_product))
     return results
 
